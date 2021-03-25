@@ -1,3 +1,11 @@
 # C-Programs
+C corner for own projects and code-snippets
+Recreated and reorganized March 2021
 
-It´s only a small collection of little C-programs, which I created on my way to learn C.
+
+These were my first baby steps in programming a while ago.
+
+Most prgrams are copiled as Win32.exe.
+
+Programs created and compiled with:
+[Pelles C](http://www.smorgasbordet.com/pellesc/)
