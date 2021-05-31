@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\soerr\Desktop\DesktopLinks\X_EigeneUnterlagen\C_Programms\HelloUniverseDemo\HelloUniverseDemo\main.c(9,29): warning C4013: "addTwoIntegers" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\soerr\Desktop\DesktopLinks\X_EigeneUnterlagen\C_Programms\HelloUniverseDemo\HelloUniverseDemo\main.c(11,29): warning C4013: "malloc" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\soerr\Desktop\DesktopLinks\X_EigeneUnterlagen\C_Programms\HelloUniverseDemo\HelloUniverseDemo\main.c(15,8): warning C4013: "strcat" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\soerr\Desktop\DesktopLinks\X_EigeneUnterlagen\C_Programms\HelloUniverseDemo\HelloUniverseDemo\main.c(18,6): warning C4013: "free" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\soerr\Desktop\DesktopLinks\X_EigeneUnterlagen\C_Programms\HelloUniverseDemo\HelloUniverseDemo\main.c(11,1): warning C4047: "Initialisierung": Anzahl der Dereferenzierungen bei "char *" und "int" unterschiedlich
+  HelloUniverseDemo.vcxproj -> C:\Users\soerr\Desktop\DesktopLinks\X_EigeneUnterlagen\C_Programms\HelloUniverseDemo\Debug\HelloUniverseDemo.exe
